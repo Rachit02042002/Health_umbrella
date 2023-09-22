@@ -1,0 +1,49 @@
+.test{
+    margin-top: 60px;
+    border-radius: 1%;
+    background-color:#F6F6F6;
+    height: 630px;
+    width: 1400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("./greeninfographics.png");
+}
+.imageRight{
+    background-image:url("./colleagues_discussing_team_project.png")
+}
+img{
+    margin-top: 60px;
+    max-width: 560px;
+    max-height: 381px;
+    margin-right: 150px;
+}
+.test-1{
+   float: left;
+   margin-left: 50px;
+}
+body{
+    
+
+}
+.heading{
+  text-align: left;
+  font-weight: bold;
+  color:#053B3F;
+}
+.text{
+       text-align: left;
+       color: #000000;
+       margin-right: 75px;
+       margin-top: 20px;
+       font-size: 15px;
+}
+.btn{
+    background-color: #053B3F;
+    border-radius: 14%;
+    color:white;
+    float: left;
+    text-align: center;
+    height: 45px;
+    width: 150px;
+}

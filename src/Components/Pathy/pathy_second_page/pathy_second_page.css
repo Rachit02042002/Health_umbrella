@@ -1,0 +1,11 @@
+.psp-2{
+padidng-bottom:200px;
+display : 'flex' ; 
+background-image: url("../pathy_second_page/DisplayCard/green\ ring.png");
+background-repeat: none;
+flex-direction : 'column';
+align-items:flex-start;
+width:100vw;
+margin:auto;
+}
+
